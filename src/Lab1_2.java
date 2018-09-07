@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+/*
+ *
+ * 201504003 구본익
+ * 2018-09-07 24:00 까지 과제
+ *
+ * */
+
 public class Lab1_2 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
@@ -9,7 +16,7 @@ public class Lab1_2 {
 
 
         // 해당 돈에 해당하는 장수를 저장해둘 변수
-        int money_50000, money_10000, money_5000, money_1000, money_500, money_100, money_Other;
+        int money_50000, money_10000, money_5000, money_1000, money_500, money_100;
 
 
         //금액 입력
