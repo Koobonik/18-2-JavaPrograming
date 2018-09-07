@@ -34,6 +34,6 @@ public class Lab1_1 {
         System.out.println("------결과------");
         System.out.println("이름:" + name + ", 학과: " + major);
         System.out.println("총점:" + sum_Score);
-        System.out.println("평균:" + average_Score);
+        System.out.printf("평균: %.2f", average_Score);
     }
 }
