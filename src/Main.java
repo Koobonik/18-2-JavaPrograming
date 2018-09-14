@@ -16,7 +16,9 @@ public class Main {
         //Grading();
         //ForSample();
         //WhileSample();
-        String_loop();
+        //String_loop();
+        //Star();
+        BreakExample();
     }
 
 
@@ -175,6 +177,30 @@ public class Main {
             System.out.println("문자를 입력해주세요 : (n/N을 누르면 종료)");
             str = sc.nextLine();
         }while (!str.equalsIgnoreCase("n") && str.charAt(0) != 'n' );
+
+        for (char b = 'a'; b<='z'; b++){
+            System.out.println(b);
+        }
     }
 
+    public static void Star(){
+        for(int i = 0 ; i < 4; i++){
+            for(int j = 0; j<=i; j++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+
+    public static void BreakExample(){
+        Scanner sc = new Scanner(System.in);
+        int num = 0;
+
+        while(true){
+            if(sc.nextInt() == -1)
+                break;
+            num++;
+        }
+        System.out.println("입력된 숫자 개수는 " + num);
+    }
 }
