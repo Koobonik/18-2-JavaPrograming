@@ -12,7 +12,10 @@ public class Main {
         //LogicalOperator();
         //UnaryOperator();
         //SuccessOrFail();
-        MultipleOfThree();
+        //MultipleOfThree();
+        //Grading();
+        //ForSample();
+        WhileSample();
     }
 
 
@@ -115,35 +118,52 @@ public class Main {
             System.out.println("3의 배수가 아닙니다.");
     }
 
+    public static void Grading(){
+        char grade;
+        Scanner sc = new Scanner(System.in);
+        while(sc.hasNext()){
+            int score = sc.nextInt();
+            if(score >= 90)
+                grade = 'A';
+            else if(score >= 80)
+                grade = 'B';
+            else if(score >= 70)
+                grade = 'C';
+            else if(score >= 60)
+                grade = 'D';
+            else
+                grade = 'F';
+            System.out.println("학점은 " + grade + " 입니다.");
+        }
+    }
+
+    public static void ForSample() {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int num = 0;
+        for(int i = 0; i<=n; i++){
+            num += i;
+        }
+        System.out.println(num);
+    }
+
+    public static void WhileSample() {
+        Scanner sc = new Scanner(System.in);
+        int n = 0;
+        double sum = 0;
+        int i = 0;
+        while ((i = sc.nextInt()) != 0){
+            sum += i;
+            n++;
+        }
+        System.out.println("입력된 개수 " + n + " 개이며 평균은 " + sum/n + " 입니다");
+    }
+
+    public static void exam(){
+        String str = "nnoono";
+        while (!str.equalsIgnoreCase("n") && str.charAt(0) != 'n' ){
+            //something
+        }
+    }
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
