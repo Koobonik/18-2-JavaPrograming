@@ -11,7 +11,8 @@ public class Main {
         //ArithmeticOperator();
         //LogicalOperator();
         //UnaryOperator();
-        SuccessOrFail();
+        //SuccessOrFail();
+        MultipleOfThree();
     }
 
 
@@ -102,6 +103,18 @@ public class Main {
         if(score >= 80)
             System.out.println("축하합니다 합격입니다.");
     }
+
+    public static void MultipleOfThree(){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("수를 입력하시오 : ");
+        int number = sc.nextInt();
+
+        if(number % 3 == 0)
+            System.out.println("3의 배수 입니다.");
+        else
+            System.out.println("3의 배수가 아닙니다.");
+    }
+
 }
 
 
