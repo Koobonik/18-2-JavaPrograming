@@ -16,6 +16,8 @@ public class Lab2_2 {
 
         System.out.println("생년월일을 입력해주세요: (ex: 960130)");
         String birthday = sc.nextLine();
+
+        // 생일의 길이가 6이 아니라면
         if(birthday.length() != 6)
             System.out.println("입력형식이 잘못되었습니다.");
 
