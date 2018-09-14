@@ -39,6 +39,6 @@ public class Lab2_3 {
 
             }
         }while(num != 0);
-
+        System.out.println("종료");
     }
 }

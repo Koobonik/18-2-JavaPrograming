@@ -28,22 +28,22 @@ public class Lab2_2 {
         {
             case 12 : case 1 : case 2:
             {
-                System.out.println("겨울에 태어나셨군");
+                System.out.println("겨울에 태어나셨군요");
                 break;
             }
             case 3 : case 4 : case 5:
             {
-                System.out.println("봄에 태어나셨군");
+                System.out.println("봄에 태어나셨군요");
                 break;
             }
             case 6 : case 7 : case 8:
             {
-                System.out.println("여름에 태어나셨군");
+                System.out.println("여름에 태어나셨군요");
                 break;
             }
             case 9 : case 10 : case 11:
             {
-                System.out.println("가을에 태어나셨군");
+                System.out.println("가을에 태어나셨군요");
                 break;
             }
             default:
