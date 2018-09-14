@@ -5,14 +5,13 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        int a = 300;
-        System.out.println(a);
         System.out.println(CircleArea()); // 원의 넓이 출력
         //TypeConversion();
         //ScannerExam();
         //ArithmeticOperator();
-//        LogicalOperator();
-        UnaryOperator();
+        //LogicalOperator();
+        //UnaryOperator();
+        SuccessOrFail();
     }
 
 
@@ -93,6 +92,15 @@ public class Main {
         System.out.println(opr);
         System.out.println(--opr);
         System.out.println(opr);
+    }
+
+    public static void SuccessOrFail(){
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("점수를 입력하시오: ");
+        int score = sc.nextInt();
+        if(score >= 80)
+            System.out.println("축하합니다 합격입니다.");
     }
 }
 
