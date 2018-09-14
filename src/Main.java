@@ -15,7 +15,8 @@ public class Main {
         //MultipleOfThree();
         //Grading();
         //ForSample();
-        WhileSample();
+        //WhileSample();
+        String_loop();
     }
 
 
@@ -159,11 +160,21 @@ public class Main {
         System.out.println("입력된 개수 " + n + " 개이며 평균은 " + sum/n + " 입니다");
     }
 
-    public static void exam(){
-        String str = "nnoono";
+    public static void String_loop(){
+        Scanner sc = new Scanner(System.in);
+        String str = sc.nextLine();
         while (!str.equalsIgnoreCase("n") && str.charAt(0) != 'n' ){
             //something
+            System.out.println("입력한 문자열 : " + str);
+            System.out.println("문자를 입력해주세요 : (n/N을 누르면 종료)");
+            str = sc.nextLine();
         }
+
+        do{
+            System.out.println("입력한 문자열 : " + str);
+            System.out.println("문자를 입력해주세요 : (n/N을 누르면 종료)");
+            str = sc.nextLine();
+        }while (!str.equalsIgnoreCase("n") && str.charAt(0) != 'n' );
     }
 
 }
