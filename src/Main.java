@@ -18,7 +18,8 @@ public class Main {
         //WhileSample();
         //String_loop();
         //Star();
-        BreakExample();
+        //BreakExample();
+        Label_ex();
     }
 
 
@@ -202,5 +203,16 @@ public class Main {
             num++;
         }
         System.out.println("입력된 숫자 개수는 " + num);
+    }
+    public static void Label_ex(){
+        for(int i = 0; i<3; i++){
+            AA:
+            for(int j = 0; j<5; j++){
+                if(j==3)
+                    break AA;
+                System.out.println("i = " + i + " || j = " + j);
+            }
+
+        }
     }
 }
