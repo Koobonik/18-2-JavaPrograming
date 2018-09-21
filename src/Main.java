@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println(CircleArea()); // 원의 넓이 출력
+        //System.out.println(CircleArea()); // 원의 넓이 출력
         //TypeConversion();
         //ScannerExam();
         //ArithmeticOperator();
@@ -19,7 +19,8 @@ public class Main {
         //String_loop();
         //Star();
         //BreakExample();
-        Label_ex();
+        //Label_ex();
+        ArrayAccess();
     }
 
 
@@ -204,6 +205,7 @@ public class Main {
         }
         System.out.println("입력된 숫자 개수는 " + num);
     }
+
     public static void Label_ex(){
         for(int i = 0; i<3; i++){
             AA:
@@ -214,5 +216,18 @@ public class Main {
             }
 
         }
+    }
+
+    public static void ArrayAccess(){
+        Scanner sc = new Scanner(System.in);
+        int intArray[] = new int[5];;
+        int max = 0;
+
+        for(int i = 0; i<5; i++){
+            intArray[i] = sc.nextInt();
+            if(intArray[i] > max)
+                max = intArray[i];
+        }
+        System.out.println("입력된 수에서 가장 큰 수는 " + max + " 입니다.");
     }
 }
