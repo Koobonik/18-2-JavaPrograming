@@ -23,7 +23,9 @@ public class Main {
         //ArrayAccess();
         //ArrayTest1();
         //ArrayLength();
-        foreachEx();
+        //foreachEx();
+        //SalesRevenue();
+        ReturnArray();
     }
 
 
@@ -282,5 +284,48 @@ public class Main {
             System.out.println(day + "요일");
         System.out.println();
 
+    }
+
+    public static void SalesRevenue(){
+        int intArray[][] = {{90, 90, 110, 100},
+                            {120, 110, 100, 110},
+                            {120, 140, 130, 150}};
+        double sum = 0;
+
+        for(int i = 0 ; i< intArray.length; i++)
+            for(int j = 0; j< intArray[i].length; j++)
+                sum += intArray[i][j];
+
+        double aver = (double) sum/intArray.length;
+        System.out.print("지난 3년간 매출 총액은 " + sum +" 이며 연 평균 매출은 ");
+        System.out.printf("%.2f 입니다.\n", aver);
+    }
+
+    public static void Input(){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("학생 수 만큼 국어, 영어, 수학 점수 입력 받기");
+        System.out.print("학생 수 : ");
+        int num = sc.nextInt();
+        int student[][] = new int [num][3];
+
+        for(int i=0; i<num; i++){
+            for(int j=0; j<student[i].length; j++){
+                student[i][j] = sc.nextInt();
+            }
+        }
+    }
+
+    public static int[] makeArray(){
+        int temp[] = new int[4];
+        for(int i=0; i<temp.length; i++)
+            temp[i] = i;
+        return temp;
+    }
+
+    public static void ReturnArray(){
+        int intArray[];
+        intArray = makeArray();
+        for(int i=0; i<intArray.length; i++)
+            System.out.println(intArray[i]);
     }
 }
