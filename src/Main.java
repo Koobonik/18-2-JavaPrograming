@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.function.UnaryOperator;
 
 public class Main {
-
+    enum Week {월, 화, 수, 목, 금, 토, 일}
     public static void main(String[] args) {
         System.out.println("Hello World!");
         //System.out.println(CircleArea()); // 원의 넓이 출력
@@ -20,7 +20,10 @@ public class Main {
         //Star();
         //BreakExample();
         //Label_ex();
-        ArrayAccess();
+        //ArrayAccess();
+        //ArrayTest1();
+        //ArrayLength();
+        foreachEx();
     }
 
 
@@ -229,5 +232,55 @@ public class Main {
                 max = intArray[i];
         }
         System.out.println("입력된 수에서 가장 큰 수는 " + max + " 입니다.");
+    }
+
+    public static void ArrayTest1(){
+        System.out.println("정렬 프로그램");
+        int array[] = {10, 4, 2, 8, 3};
+        int tmp;
+
+        for(int i = 0; i<5; i++){
+            for(int j = i+1; j<5 ; j++){
+                if(array[i] <= array[j]){
+                    tmp = array[j];
+                    array[j] = array[i];
+                    array[i] = tmp;
+                }
+            }
+        }
+        for(int i = 0; i<5 ; i++)
+            System.out.println(array[i]+ "\t");
+    }
+
+    public static void ArrayLength(){
+        Scanner sc = new Scanner(System.in);
+        int intArray[] = new int[5];
+        double sum = 0;
+
+        for(int i = 0 ; i< intArray.length; i++){
+            intArray[i] = sc.nextInt();
+            sum += intArray[i];
+        }
+        System.out.println("배열 원소의 평균은 " + sum/intArray.length + " 입니다.");
+    }
+
+    public static void foreachEx(){
+        int[] num = {1, 2, 3, 4, 5};
+        String names[] = {"사과", "배", "바나나", "체리", "딸기", "포도"};
+        int sum = 0;
+
+        for (int k : num)
+            sum += k;
+        System.out.println("합은 " + sum);
+
+
+        for(String s : names)
+            System.out.println(s + " ");
+        System.out.println();
+
+        for(Week day : Week.values())
+            System.out.println(day + "요일");
+        System.out.println();
+
     }
 }
