@@ -5,11 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="75" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a24b9b3-da4f-4cc6-ae38-fe969235fc76" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab4_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2a24b9b3-da4f-4cc6-ae38-fe969235fc76" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -264,7 +260,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538108853607" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538108967522" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -362,18 +358,17 @@
       <workItem from="1537488421515" duration="7604000" />
       <workItem from="1537502745742" duration="4162000" />
       <workItem from="1538098054860" duration="3886000" />
-      <workItem from="1538107258524" duration="1594000" />
+      <workItem from="1538107258524" duration="1860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47626000" />
+    <option name="totallyTimeSpent" value="47892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13519314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13519314" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -383,7 +378,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4510533" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4510533" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
