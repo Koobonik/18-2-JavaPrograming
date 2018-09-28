@@ -348,6 +348,5 @@ public class Main {
         Goods [] goodsArray;
         goodsArray = new Goods[3];
         Scanner sc = new Scanner(System.in);
-        
     }
 }
