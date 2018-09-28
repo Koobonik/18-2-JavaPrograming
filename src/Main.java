@@ -328,4 +328,26 @@ public class Main {
         for(int i=0; i<intArray.length; i++)
             System.out.println(intArray[i]);
     }
+    public class Goods{
+        private String name;
+        private int price;
+        private int numberOfStock;
+        private int sold;
+
+        Goods(String name, int price, int numberOfStock, int sold){
+            this.name = name;
+            this.price = price;
+            this.numberOfStock = numberOfStock;
+            this.sold = sold;
+        }
+        String getName(){return name;}
+        int getNumberOfStock(){return numberOfStock;}
+        int getSold(){return sold;}
+    }
+    public static void GoodsArray(){
+        Goods [] goodsArray;
+        goodsArray = new Goods[3];
+        Scanner sc = new Scanner(System.in);
+        
+    }
 }
