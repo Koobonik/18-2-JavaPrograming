@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="34" />
-    <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="74" />
+    <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="35" />
+    <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="75" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a24b9b3-da4f-4cc6-ae38-fe969235fc76" name="Default" comment="">
@@ -66,10 +66,12 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="793">
-              <caret line="349" column="44" selection-start-line="349" selection-start-column="44" selection-end-line="349" selection-end-column="44" />
+            <state relative-caret-position="448">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#10319#10320#0" expanded="true" />
+                <element signature="e#10356#10357#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -287,12 +289,12 @@
       <workItem from="1536883613069" duration="9426000" />
       <workItem from="1537488421515" duration="7604000" />
       <workItem from="1537502745742" duration="4162000" />
-      <workItem from="1538098054860" duration="3312000" />
+      <workItem from="1538098054860" duration="3886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45458000" />
+    <option name="totallyTimeSpent" value="46032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -367,6 +369,8 @@
           <caret line="234" column="9" lean-forward="true" selection-start-line="232" selection-start-column="12" selection-end-line="234" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#10319#10320#0" expanded="true" />
+            <element signature="e#10356#10357#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -446,10 +450,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="793">
-          <caret line="349" column="44" selection-start-line="349" selection-start-column="44" selection-end-line="349" selection-end-column="44" />
+        <state relative-caret-position="448">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#10319#10320#0" expanded="true" />
+            <element signature="e#10356#10357#0" expanded="true" />
           </folding>
         </state>
       </provider>

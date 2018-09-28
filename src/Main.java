@@ -26,6 +26,7 @@ public class Main {
         //foreachEx();
         //SalesRevenue();
         ReturnArray();
+        
     }
 
 
@@ -349,4 +350,19 @@ public class Main {
         goodsArray = new Goods[3];
         Scanner sc = new Scanner(System.in);
     }
+    public static void CallByValue(){
+
+    }
+    public class Person{
+        public String name;
+        public int age;
+        public Person(String s){
+            this.name = s;
+        }
+        public void setAge(int n){
+            this.age = n;
+            n++;
+        }
+    }
+
 }
