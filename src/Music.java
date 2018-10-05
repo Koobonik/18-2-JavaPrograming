@@ -13,7 +13,7 @@ public class Music {
     private String singer;
     private int day;
     public void result(){
-        System.out.println("노래 이름 : " + this.song + "  가수 : " + this.singer + "  발매일 : " + this.day);
+        System.out.println("노래 이름 : " + this.song + " 가수 : " + this.singer + "  발매일 : " + this.day);
     }
     Music(String song, String singer, int day){
         this.song = song;
