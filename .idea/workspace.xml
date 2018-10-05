@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="37" />
-    <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="77" />
+    <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="38" />
+    <bookmark url="file://$PROJECT_DIR$/src/Main.java" line="78" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a24b9b3-da4f-4cc6-ae38-fe969235fc76" name="Default" comment="">
@@ -66,8 +66,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="372" column="42" selection-start-line="372" selection-start-column="42" selection-end-line="372" selection-end-column="42" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#10319#10320#0" expanded="true" />
@@ -307,12 +307,12 @@
       <workItem from="1536883613069" duration="9426000" />
       <workItem from="1537488421515" duration="7604000" />
       <workItem from="1537502745742" duration="4162000" />
-      <workItem from="1538098054860" duration="7778000" />
+      <workItem from="1538098054860" duration="8664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49639000" />
+    <option name="totallyTimeSpent" value="50525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -320,14 +320,14 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.3287234" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3287234" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4510533" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
@@ -554,8 +554,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="372" column="42" selection-start-line="372" selection-start-column="42" selection-end-line="372" selection-end-column="42" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#10319#10320#0" expanded="true" />

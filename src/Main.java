@@ -28,6 +28,7 @@ public class Main {
         //ReturnArray();
         Samp a = new Samp(2);
         a.trans();
+        Book javaBook = new Book("Java JDK", "구본익", 1234);
         
     }
 
@@ -383,6 +384,17 @@ public class Main {
             System.out.println("ob1.id=" + ob2.id);
         }
 
+    }
+
+    public static class Book{
+        String title;
+        String author;
+        int ISBN;
+        public Book(String title, String author, int ISBN){
+            this.title = title;
+            this.author = author;
+            this.ISBN = ISBN;
+        }
     }
 
 }
