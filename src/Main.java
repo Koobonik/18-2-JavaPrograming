@@ -29,6 +29,8 @@ public class Main {
         Samp a = new Samp(2);
         a.trans();
         Book javaBook = new Book("Java JDK", "구본익", 1234);
+        Book holyBible = new Book("Holy", 1);
+        Book emptyBook = new Book();
         
     }
 
@@ -394,6 +396,13 @@ public class Main {
             this.title = title;
             this.author = author;
             this.ISBN = ISBN;
+        }
+        public Book(String title, int ISBN){
+            this(title, "Anonymous", ISBN);
+        }
+        public Book(){
+            this(null, null, 0);
+            System.out.println("생성자가 호출되었음.");
         }
     }
 
