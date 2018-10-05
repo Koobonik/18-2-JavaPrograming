@@ -17,8 +17,7 @@ public class Lab5_1 {
 
         Music[] music = new Music[3]; // 음악리스트 3개를 만듦
 
-        for (int q = 0; q < 3 ; q++){
-
+        while (true){
             System.out.println("Music player");
             System.out.println("1. 음악리스트   2. 음악 추가   0. 끝내기");
             int i = 0;
@@ -58,6 +57,7 @@ public class Lab5_1 {
             else if(i == 0) // 프로그램 종료
             {
                 System.out.println("시스템 종료");
+                break;
             }
         }
     }

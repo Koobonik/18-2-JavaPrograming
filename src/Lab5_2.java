@@ -19,9 +19,10 @@ public class Lab5_2 {
         int num = sc.nextInt();
         Product[] products = new Product[num]; // num 개수 만큼 상품 생산
         for(int i = 0; i< num ; i++){
+            sc.nextLine(); // 버퍼 제거
             System.out.println(i + 1 + " 상품명:");
             String name = sc.nextLine();
-            System.out.println(i + 1 + " 상품가:");
+            System.out.println(i + 1 + " 상품가격:");
             int price = sc.nextInt();
             products[i] = new Product(name, price);
         }

@@ -7,10 +7,12 @@ public class Product {
         this.price = price;
     }
 
+    // 가격 반환
     public int getPrice() {
         return price;
     }
 
+    // 상품명 반환
     public String getName() {
         return name;
     }
