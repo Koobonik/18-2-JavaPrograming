@@ -17,6 +17,7 @@ public class Lab5_1 {
 
         Music[] music = new Music[3]; // 음악리스트 3개를 만듦
 
+        // true로 돌리고 필요할때 break 걸어서 빠져 나오자!
         while (true){
             System.out.println("Music player");
             System.out.println("1. 음악리스트   2. 음악 추가   0. 끝내기");
