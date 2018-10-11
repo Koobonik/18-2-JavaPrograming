@@ -32,7 +32,7 @@ public class Lab5_1 {
                     for (int j = 0; j < music.length; j++){
                         music[j].result();
                     }
-                }catch(Exception e){
+                }catch(Exception e){ // 예외 처리 : 아무 값이 없을 때
                     System.out.println("결과가 없습니다.");
                 }
             }
