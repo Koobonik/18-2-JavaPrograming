@@ -36,9 +36,11 @@ public class Main {
 //        cp.set(3,4);
 //        cp.setColor("red");
 //        cp.showColorPoint();
-        Student s = new Student();
-        s.set();
-        System.out.println(s.getWeight());
+//        Student s = new Student();
+//        s.set();
+//        System.out.println(s.getWeight());
+        B b;
+        b = new B(5);
 
     }
 
@@ -452,6 +454,24 @@ public class Main {
             name = "홍길동";
             height = 175;
             setWeight(99);
+        }
+    }
+
+    static class A {
+        public A() {
+            System.out.println("생성자A");
+        }
+        public A(int x) {
+            System.out.println("매개변수 생성자 A " + x);
+        }
+    }
+    static  class B extends A {
+        public B(){
+            System.out.println("생성자B");
+        }
+        public B(int x){
+            super(x);
+            System.out.println("매개변수 생성자 B " + x);
         }
     }
 }
