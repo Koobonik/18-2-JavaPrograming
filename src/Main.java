@@ -32,10 +32,14 @@ public class Main {
 //        Book holyBible = new Book("Holy", 1);
 //        Book emptyBook = new Book();
 
-        ColorPoint cp = new ColorPoint();
-        cp.set(3,4);
-        cp.setColor("red");
-        cp.showColorPoint();
+//        ColorPoint cp = new ColorPoint();
+//        cp.set(3,4);
+//        cp.setColor("red");
+//        cp.showColorPoint();
+        Student s = new Student();
+        s.set();
+        System.out.println(s.getWeight());
+
     }
 
 
@@ -430,5 +434,24 @@ public class Main {
             showPoint();
         }
 
+    }
+
+    static class Person2 {
+        int age;
+        public String name;
+        protected int height;
+        private int weight;
+        public void setWeight(int weight) { this. weight = weight; }
+        public int getWeight() { return weight; }
+
+    }
+
+    public static class Student extends Person2 {
+        void set(){
+            age = 30;
+            name = "홍길동";
+            height = 175;
+            setWeight(99);
+        }
     }
 }
