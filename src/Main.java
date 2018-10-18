@@ -232,7 +232,7 @@ public class Main {
 
         }
     }
-
+    // 최대값 구하기
     public static void ArrayAccess(){
         Scanner sc = new Scanner(System.in);
         int intArray[] = new int[5];;
