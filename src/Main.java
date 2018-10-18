@@ -1,3 +1,5 @@
+import org.jcp.xml.dsig.internal.dom.DOMBase64Transform;
+
 import java.util.Scanner;
 import java.util.function.UnaryOperator;
 
@@ -32,10 +34,17 @@ public class Main {
 //        Book holyBible = new Book("Holy", 1);
 //        Book emptyBook = new Book();
 
-        ColorPoint cp = new ColorPoint();
-        cp.set(3,4);
-        cp.setColor("red");
-        cp.showColorPoint();
+//        ColorPoint cp = new ColorPoint();
+//        cp.set(3,4);
+//        cp.setColor("red");
+//        cp.showColorPoint();
+//        Student s = new Student();
+//        s.set();
+//        System.out.println(s.getWeight());
+        B b;
+        b = new B(5);
+
+
     }
 
 
@@ -431,4 +440,68 @@ public class Main {
         }
 
     }
+
+    static class Person2 {
+        int age;
+        public String name;
+        protected int height;
+        private int weight;
+        public void setWeight(int weight) { this. weight = weight; }
+        public int getWeight() { return weight; }
+
+    }
+
+    public static class Student extends Person2 {
+        void set(){
+            age = 30;
+            name = "홍길동";
+            height = 175;
+            setWeight(99);
+        }
+    }
+
+    static class A {
+        public A() {
+            System.out.println("생성자A");
+        }
+        public A(int x) {
+            System.out.println("매개변수 생성자 A " + x);
+        }
+    }
+    static  class B extends A {
+        public B(){
+            System.out.println("생성자B");
+        }
+        public B(int x){
+            super(x);
+            System.out.println("매개변수 생성자 B " + x);
+        }
+    }
+    static class DObject {
+        public DObject next;
+        public DObject(){ next = null; }
+        public void draw() {
+            System.out.println("DObject Draw");
+        }
+    }
+    static class Line extends DObject {
+        public void draw(){
+            System.out.println("Line");
+        }
+    }
+
+    static class Rect extends DObject {
+        public void draw(){
+            System.out.println("Rect");
+        }
+    }
+
+    static class Circle extends DObject {
+        public void draw(){
+            System.out.println("Circle");
+        }
+    }
+
+    
+
 }
