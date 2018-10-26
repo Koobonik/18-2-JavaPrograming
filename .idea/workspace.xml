@@ -14,18 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1019">
-              <caret line="502" column="5" selection-start-line="502" selection-start-column="5" selection-end-line="502" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Product.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,17 +77,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoodCalc.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GoodCalc.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/GoodCalc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+            <state relative-caret-position="80">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding>
                 <element signature="e#94#95#0" expanded="true" />
                 <element signature="e#119#120#0" expanded="true" />
                 <element signature="e#159#160#0" expanded="true" />
                 <element signature="e#187#188#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hero.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab6/Hero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+              <folding>
+                <element signature="e#446#447#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#720#721#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Attack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab6/Attack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Soldier.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lab6/Soldier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -113,32 +140,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lab5_1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab5_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lab1_2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab1_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="896">
-              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -167,6 +174,9 @@
         <option value="$PROJECT_DIR$/src/JavaExam/Overriding.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/Calculator.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/GoodCalc.java" />
+        <option value="$PROJECT_DIR$/src/Lab6/Hero.java" />
+        <option value="$PROJECT_DIR$/src/Lab6/Attack.java" />
+        <option value="$PROJECT_DIR$/src/Lab6/Soldier.java" />
       </list>
     </option>
   </component>
@@ -179,10 +189,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1612" />
-    <option name="height" value="867" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="896" />
+    <option name="width" value="1031" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -207,7 +217,7 @@
               <item name="18-2-JavaPrograming" type="b2602c69:ProjectViewProjectNode" />
               <item name="18-2-JavaPrograming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExam" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -342,15 +352,15 @@
       <workItem from="1539221268843" duration="124000" />
       <workItem from="1539269521012" duration="20000" />
       <workItem from="1540166126908" duration="683000" />
-      <workItem from="1540515823657" duration="2485000" />
+      <workItem from="1540515823657" duration="3918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2394000" />
+    <option name="totallyTimeSpent" value="3827000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="896" y="0" width="1031" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -362,12 +372,12 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32659575" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32975295" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16302083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30837438" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -394,30 +404,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3744">
-          <caret line="234" column="9" lean-forward="true" selection-start-line="232" selection-start-column="12" selection-end-line="234" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab2_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab1_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
@@ -743,14 +729,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/GoodCalc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        <state relative-caret-position="80">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding>
             <element signature="e#94#95#0" expanded="true" />
             <element signature="e#119#120#0" expanded="true" />
             <element signature="e#159#160#0" expanded="true" />
             <element signature="e#187#188#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab6/Attack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab6/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+          <folding>
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab6/Soldier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
