@@ -71,11 +71,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Overriding.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Overriding.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/Overriding.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
               <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaExam/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoodCalc.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaExam/GoodCalc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+              <folding>
+                <element signature="e#94#95#0" expanded="true" />
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,24 +121,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lab2_1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab2_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lab1_1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab1_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="46" column="51" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -159,6 +165,8 @@
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/JavaExam/Person.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/Overriding.java" />
+        <option value="$PROJECT_DIR$/src/JavaExam/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/JavaExam/GoodCalc.java" />
       </list>
     </option>
   </component>
@@ -170,6 +178,11 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1612" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -216,7 +229,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Overriding">
+  <component name="RunManager" selected="Application.GoodCalc">
+    <configuration name="GoodCalc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExam.GoodCalc" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Overriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.Overriding" />
       <module name="Test" />
@@ -283,9 +307,11 @@
     <list>
       <item itemvalue="Application.SubObject" />
       <item itemvalue="Application.Overriding" />
+      <item itemvalue="Application.GoodCalc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GoodCalc" />
         <item itemvalue="Application.Overriding" />
         <item itemvalue="Application.SubObject" />
       </list>
@@ -316,12 +342,12 @@
       <workItem from="1539221268843" duration="124000" />
       <workItem from="1539269521012" duration="20000" />
       <workItem from="1540166126908" duration="683000" />
-      <workItem from="1540515823657" duration="818000" />
+      <workItem from="1540515823657" duration="2485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="727000" />
+    <option name="totallyTimeSpent" value="2394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -368,20 +394,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lab1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="46" column="51" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab1_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="896">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3744">
@@ -719,6 +731,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/GoodCalc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="56" lean-forward="true" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
