@@ -31,7 +31,13 @@ abstract public class Hero {
     }
 
     public void info(){
-        System.out.println(name);
+        System.out.println("영웅 : " + this.name);
+        System.out.println("포지션 : " + this.position);
+        System.out.println("총알수 : " + this.shot_num);
+        System.out.println("생명 : " + this.life);
+        System.out.println("궁극기 게이지 : " + this.gauge);
+        System.out.println("남은 총알 수 " + this.shot_num + "입니다.");
+
     }
 
 
