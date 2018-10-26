@@ -19,8 +19,8 @@ public class Lab6 {
 
         System.out.println("영웅을 선택해주세요");
         System.out.println("1. 솔저   2. 트레이서      0. 끝내기");
-        Hero hero;
-        //hero.menu(sc);
+        Hero hero = null;
+        hero.menu(sc);
 
 
     }

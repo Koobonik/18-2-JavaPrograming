@@ -33,5 +33,7 @@ abstract public class Hero {
     public void info(){
         System.out.println(name);
     }
+
+
     abstract public void menu(Scanner kbd);
 }
