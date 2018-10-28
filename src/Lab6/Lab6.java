@@ -57,6 +57,8 @@ public class Lab6 {
                 // 트레이서의 메뉴 출력
                 tracer.menu(sc);
             }
+
+            // 게임 종료를 원할 시
             else if (choice == 0){
                 doYouWantContinue = false;
                 System.out.println("종료");
