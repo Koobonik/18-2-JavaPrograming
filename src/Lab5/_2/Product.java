@@ -1,3 +1,5 @@
+package Lab5._2;
+
 public class Product {
     private int price;
     private String name;
