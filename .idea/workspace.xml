@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="149c59d3-7f3f-4a91-9e4d-13b6c1de221c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaExam/StringEx/StringEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaExam/StringBuffer/StringBufferEx.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,22 +19,22 @@
     <session id="790233904">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="22" />
+          <entry key="java" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="22" />
+          <entry key="JAVA" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2950" />
+          <entry key="java" value="3188" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2950" />
+          <entry key="JAVA" value="3188" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -58,15 +58,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab5/_1/Music.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -132,11 +123,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/StringEx/StringEX.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="62" lean-forward="true" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
+            <state>
+              <caret column="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaExam/StringBuffer/StringBufferEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -197,6 +197,7 @@
         <option value="$PROJECT_DIR$/src/JavaExam/WrapperEX/WrapperClassEx.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/StringEx/StringEX.java" />
+        <option value="$PROJECT_DIR$/src/JavaExam/StringBuffer/StringBufferEx.java" />
       </list>
     </option>
   </component>
@@ -253,7 +254,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541123422126" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541124453553" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -272,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringEX">
+  <component name="RunManager" selected="Application.StringBufferEx">
     <configuration name="EqualsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.Rect_Equals.EqualsEx" />
       <module name="Test" />
@@ -280,20 +281,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaExam.Rect_Equals.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab6.Lab6" />
-      <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lab6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,6 +303,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaExam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBufferEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExam.StringBuffer.StringBufferEx" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExam.StringBuffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -358,19 +359,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab6" />
       <item itemvalue="Application.ObjectProperty" />
       <item itemvalue="Application.EqualsEx" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.StringEX" />
+      <item itemvalue="Application.StringBufferEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBufferEx" />
         <item itemvalue="Application.StringEX" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.EqualsEx" />
         <item itemvalue="Application.ObjectProperty" />
-        <item itemvalue="Application.Lab6" />
       </list>
     </recent_temporary>
   </component>
@@ -400,12 +401,12 @@
       <workItem from="1540166126908" duration="683000" />
       <workItem from="1540515823657" duration="3918000" />
       <workItem from="1540736662049" duration="148000" />
-      <workItem from="1541117403482" duration="2981000" />
+      <workItem from="1541117403482" duration="3753000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18219000" />
+    <option name="totallyTimeSpent" value="18991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -717,8 +718,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/StringEx/StringEX.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="62" lean-forward="true" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
+        <state>
+          <caret column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/StringBuffer/StringBufferEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
         </state>
       </provider>
     </entry>
