@@ -6,9 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="149c59d3-7f3f-4a91-9e4d-13b6c1de221c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab7/Lab7_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab7/Lab7_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab7/Lab7_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab7/Lab7_2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,12 +29,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4808" />
+          <entry key="java" value="5031" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4808" />
+          <entry key="JAVA" value="5031" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -67,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lab7/Lab7_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+            <state relative-caret-position="230">
+              <caret line="17" column="48" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="17" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,8 +77,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lab7/Lab7_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="339">
+              <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -262,7 +260,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541136393740" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541145403607" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -282,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lab7_1">
+  <component name="RunManager" selected="Application.Lab7_2">
     <configuration name="Lab7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab7.Lab7_1" />
       <module name="Test" />
@@ -297,10 +295,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Lab7_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab7.Lab7_2" />
       <module name="Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -368,19 +372,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.StringEX" />
       <item itemvalue="Application.StringBufferEx" />
       <item itemvalue="Application.StringTokenizerEx" />
       <item itemvalue="Application.Lab7_1" />
+      <item itemvalue="Application.Lab7_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab7_2" />
         <item itemvalue="Application.Lab7_1" />
         <item itemvalue="Application.StringTokenizerEx" />
         <item itemvalue="Application.StringBufferEx" />
         <item itemvalue="Application.StringEX" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -410,18 +414,18 @@
       <workItem from="1540166126908" duration="683000" />
       <workItem from="1540515823657" duration="3918000" />
       <workItem from="1540736662049" duration="148000" />
-      <workItem from="1541117403482" duration="8309000" />
+      <workItem from="1541117403482" duration="10316000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23547000" />
+    <option name="totallyTimeSpent" value="25554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13662376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13662376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -431,7 +435,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3630731" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3630731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -748,8 +752,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab7/Lab7_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        <state relative-caret-position="230">
+          <caret line="17" column="48" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="17" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -758,8 +762,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab7/Lab7_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="339">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
         </state>
       </provider>
     </entry>
