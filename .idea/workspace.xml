@@ -6,7 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="149c59d3-7f3f-4a91-9e4d-13b6c1de221c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaExam/StringTokenizer/StringTokenizerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/Lab7_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab7/Lab7_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,22 +21,22 @@
     <session id="790233904">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="24" />
+          <entry key="java" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="24" />
+          <entry key="JAVA" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3295" />
+          <entry key="java" value="4808" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3295" />
+          <entry key="JAVA" value="4808" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -54,23 +56,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab5/_2/Order.java">
+        <entry file="file://$PROJECT_DIR$/src/Lab6/Lab6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="459">
+              <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaExam/ObjectProperty.java">
+        <entry file="file://$PROJECT_DIR$/src/Lab7/Lab7_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="390">
+              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
               <folding>
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lab7/Lab7_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -132,20 +142,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/StringTokenizer/StringTokenizerEx.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab5/_2/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -159,6 +160,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>random</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -199,6 +205,8 @@
         <option value="$PROJECT_DIR$/src/JavaExam/StringEx/StringEX.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/StringBuffer/StringBufferEx.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/StringTokenizer/StringTokenizerEx.java" />
+        <option value="$PROJECT_DIR$/src/Lab7/Lab7_1.java" />
+        <option value="$PROJECT_DIR$/src/Lab7/Lab7_2.java" />
       </list>
     </option>
   </component>
@@ -237,14 +245,13 @@
               <item name="18-2-JavaPrograming" type="b2602c69:ProjectViewProjectNode" />
               <item name="18-2-JavaPrograming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExam" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="18-2-JavaPrograming" type="b2602c69:ProjectViewProjectNode" />
               <item name="18-2-JavaPrograming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExam" type="462c0819:PsiDirectoryNode" />
-              <item name="Rect_Equals" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,10 +262,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541125161472" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541136393740" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab7" />
       <recent name="Lab6" />
     </key>
   </component>
@@ -274,14 +282,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringTokenizerEx">
-    <configuration name="EqualsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExam.Rect_Equals.EqualsEx" />
+  <component name="RunManager" selected="Application.Lab7_1">
+    <configuration name="Lab7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab7.Lab7_1" />
       <module name="Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaExam.Rect_Equals.*" />
+          <option name="PATTERN" value="Lab7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,19 +368,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EqualsEx" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.StringEX" />
       <item itemvalue="Application.StringBufferEx" />
       <item itemvalue="Application.StringTokenizerEx" />
+      <item itemvalue="Application.Lab7_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab7_1" />
         <item itemvalue="Application.StringTokenizerEx" />
         <item itemvalue="Application.StringBufferEx" />
         <item itemvalue="Application.StringEX" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.EqualsEx" />
       </list>
     </recent_temporary>
   </component>
@@ -402,12 +410,12 @@
       <workItem from="1540166126908" duration="683000" />
       <workItem from="1540515823657" duration="3918000" />
       <workItem from="1540736662049" duration="148000" />
-      <workItem from="1541117403482" duration="4215000" />
+      <workItem from="1541117403482" duration="8309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19453000" />
+    <option name="totallyTimeSpent" value="23547000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -562,13 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab6/Lab6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -735,6 +736,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab6/Lab6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab7/Lab7_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab7/Lab7_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
         </state>
       </provider>
     </entry>
