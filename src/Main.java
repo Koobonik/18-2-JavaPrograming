@@ -41,9 +41,16 @@ public class Main {
 //        Student s = new Student();
 //        s.set();
 //        System.out.println(s.getWeight());
-        B b;
-        b = new B(5);
-
+//        B b;
+//        b = new B(5);
+        // "class" 에 포함된 s 의 개수를 세는 코드
+        int count = 0;
+        String a = "class";
+        for(int i = 0; i<a.length(); i++){
+            if(a.charAt(i) == 's')
+                count++;
+        }
+        System.out.println(count);
 
     }
 
