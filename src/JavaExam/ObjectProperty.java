@@ -6,6 +6,9 @@ class Point {
         this.x = x;
         this.y = y;
     }
+    public String toString(){
+        return "Point(" + x + "," + y + ")";
+    }
 }
 
 public class ObjectProperty {
@@ -15,5 +18,10 @@ public class ObjectProperty {
         System.out.println(p.hashCode());
         System.out.println(p.toString());
         System.out.println(p);
+
+
+        Point a = new Point(3,5);
+        System.out.println(a.toString());
+        System.out.println(a);
     }
 }
