@@ -6,8 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="149c59d3-7f3f-4a91-9e4d-13b6c1de221c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaExam/ArrayList/ArrayListEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaExam/InteratorEX/InteratorEx.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,22 +19,22 @@
     <session id="790233904">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="30" />
+          <entry key="java" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="30" />
+          <entry key="JAVA" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6648" />
+          <entry key="java" value="7082" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6648" />
+          <entry key="JAVA" value="7082" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
@@ -92,10 +91,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/ArrayList/ArrayListEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="346">
               <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -105,11 +104,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaExam/Rect_Equals/EqualsEx.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaExam/InteratorEX/InteratorEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="450">
+              <caret line="30" column="51" lean-forward="true" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#198#207#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -221,6 +224,7 @@
         <option value="$PROJECT_DIR$/src/JavaExam/Vector/VectorEx.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/Vector/PointVector.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/ArrayList/ArrayListEx.java" />
+        <option value="$PROJECT_DIR$/src/JavaExam/InteratorEX/InteratorEx.java" />
       </list>
     </option>
   </component>
@@ -284,7 +288,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541726385207" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541727266922" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -304,7 +308,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayListEx">
+  <component name="RunManager" selected="Application.InteratorEx">
     <configuration name="ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.ArrayList.ArrayListEx" />
       <module name="Test" />
@@ -319,13 +323,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab7.Lab7_1" />
+    <configuration name="InteratorEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExam.InteratorEX.InteratorEx" />
       <module name="Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab7.*" />
+          <option name="PATTERN" value="JavaExam.InteratorEX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,8 +337,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab7_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab7.Lab7_2" />
+    <configuration name="Lab7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab7.Lab7_1" />
       <module name="Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -397,18 +401,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Lab7_1" />
-      <item itemvalue="Application.Lab7_2" />
       <item itemvalue="Application.VectorEx" />
       <item itemvalue="Application.PointVector" />
       <item itemvalue="Application.ArrayListEx" />
+      <item itemvalue="Application.InteratorEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InteratorEx" />
         <item itemvalue="Application.ArrayListEx" />
         <item itemvalue="Application.PointVector" />
         <item itemvalue="Application.VectorEx" />
         <item itemvalue="Application.Lab7_1" />
-        <item itemvalue="Application.Lab7_2" />
       </list>
     </recent_temporary>
   </component>
@@ -439,18 +443,18 @@
       <workItem from="1540515823657" duration="3918000" />
       <workItem from="1540736662049" duration="148000" />
       <workItem from="1541117403482" duration="11584000" />
-      <workItem from="1541723695468" duration="2129000" />
+      <workItem from="1541723695468" duration="2665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28951000" />
+    <option name="totallyTimeSpent" value="29487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13805436" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13805436" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -460,7 +464,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27509293" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27509293" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -816,11 +820,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/ArrayList/ArrayListEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="346">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#173#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/InteratorEX/InteratorEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="51" lean-forward="true" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#198#207#0" expanded="true" />
           </folding>
         </state>
       </provider>
