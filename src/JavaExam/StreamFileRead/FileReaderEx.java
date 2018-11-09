@@ -1,4 +1,4 @@
-package JavaExam;
+package JavaExam.StreamFileRead;
 
 import javax.swing.text.Style;
 import java.io.FileNotFoundException;

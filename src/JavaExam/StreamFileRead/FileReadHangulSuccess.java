@@ -1,4 +1,4 @@
-package JavaExam;
+package JavaExam.StreamFileRead;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -10,13 +10,13 @@ public class FileReadHangulSuccess {
         InputStreamReader in = null;
         FileInputStream fin = null;
         try{
-            fin = new FileInputStream("hangul.txt");
+            fin = new FileInputStream("src/JavaExam/StreamFileRead/hangul.txt");
             in = new InputStreamReader(fin, "MS949");
             int c;
 
             System.out.println("인코딩 문자 집합은" + in.getEncoding());
             while ((c = in.read()) != -1){
-                System.out.println((char)c);
+                System.out.print((char)c);
             }
             in.close();
             fin.close() ;

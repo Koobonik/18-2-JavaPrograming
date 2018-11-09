@@ -1,4 +1,4 @@
-package JavaExam;
+package JavaExam.StreamFileRead;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
