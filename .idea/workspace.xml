@@ -78,11 +78,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileReadHangulSuccess.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FileReadHangulSuccess.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/StreamFileRead/FileReadHangulSuccess.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileWriterEx.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaExam/StreamFileRead/FileWriterEx.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -177,6 +189,7 @@
         <option value="$PROJECT_DIR$/src/FileReadHangulSuccess.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/FileReadHangulSuccess.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/StreamFileRead/FileReadHangulSuccess.java" />
+        <option value="$PROJECT_DIR$/src/JavaExam/StreamFileRead/FileWriterEx.java" />
       </list>
     </option>
   </component>
@@ -190,8 +203,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -264,7 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileReadHangulSuccess (2)">
+  <component name="RunManager" selected="Application.FileWriterEx">
     <configuration name="FileReadHangulSuccess (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileReadHangulSuccess" />
       <module name="Test" />
@@ -303,13 +317,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExam.Test" />
+    <configuration name="FileWriterEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExam.StreamFileRead.FileWriterEx" />
       <module name="Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaExam.*" />
+          <option name="PATTERN" value="JavaExam.StreamFileRead.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -365,19 +379,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.FileReaderEx" />
       <item itemvalue="Application.FileReadHangulSuccess" />
       <item itemvalue="Application.FileReadHangulSuccess (1)" />
       <item itemvalue="Application.FileReadHangulSuccess (2)" />
+      <item itemvalue="Application.FileWriterEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileWriterEx" />
         <item itemvalue="Application.FileReadHangulSuccess (2)" />
         <item itemvalue="Application.FileReadHangulSuccess" />
         <item itemvalue="Application.FileReadHangulSuccess (1)" />
         <item itemvalue="Application.FileReaderEx" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -410,15 +424,15 @@
       <workItem from="1540736662049" duration="148000" />
       <workItem from="1541117403482" duration="11584000" />
       <workItem from="1541723695468" duration="4742000" />
-      <workItem from="1541729914194" duration="1003000" />
+      <workItem from="1541729914194" duration="1235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32567000" />
+    <option name="totallyTimeSpent" value="32799000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -430,12 +444,12 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2313278" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23952739" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13918068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20876826" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3294347" />
       <window_info id="Learn" order="2" />
@@ -697,8 +711,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/StreamFileRead/FileReadHangulSuccess.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/StreamFileRead/FileWriterEx.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
