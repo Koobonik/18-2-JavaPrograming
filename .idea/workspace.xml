@@ -116,15 +116,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FlowLayoutEx.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FlowLayoutEx.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/TestGUI/FlowLayoutEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            <state relative-caret-position="304">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="19" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#648#649#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BorderLayoutEx.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaExam/TestGUI/BorderLayoutEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#691#692#0" expanded="true" />
+                <element signature="e#726#727#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -220,6 +234,7 @@
         <option value="$PROJECT_DIR$/src/JavaExam/StreamFileRead/FileWriterEx.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/TestGUI/TestGUI.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/TestGUI/FlowLayoutEx.java" />
+        <option value="$PROJECT_DIR$/src/JavaExam/TestGUI/BorderLayoutEx.java" />
       </list>
     </option>
   </component>
@@ -308,7 +323,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FlowLayoutEx">
+  <component name="RunManager" selected="Application.BorderLayoutEx">
+    <configuration name="BorderLayoutEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExam.TestGUI.BorderLayoutEx" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExam.TestGUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="FileReadHangulSuccess (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.StreamFileRead.FileReadHangulSuccess" />
       <module name="Test" />
@@ -316,17 +342,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaExam.StreamFileRead.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="FileReadHangulSuccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExam.FileReadHangulSuccess" />
-      <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -415,19 +430,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FileReadHangulSuccess" />
       <item itemvalue="Application.FileReadHangulSuccess (2)" />
       <item itemvalue="Application.FileWriterEx" />
       <item itemvalue="Application.TestGUI" />
       <item itemvalue="Application.FlowLayoutEx" />
+      <item itemvalue="Application.BorderLayoutEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BorderLayoutEx" />
         <item itemvalue="Application.FlowLayoutEx" />
         <item itemvalue="Application.TestGUI" />
         <item itemvalue="Application.FileWriterEx" />
         <item itemvalue="Application.FileReadHangulSuccess (2)" />
-        <item itemvalue="Application.FileReadHangulSuccess" />
       </list>
     </recent_temporary>
   </component>
@@ -461,12 +476,12 @@
       <workItem from="1541117403482" duration="11584000" />
       <workItem from="1541723695468" duration="4742000" />
       <workItem from="1541729914194" duration="1235000" />
-      <workItem from="1542329650546" duration="3199000" />
+      <workItem from="1542329650546" duration="3681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35998000" />
+    <option name="totallyTimeSpent" value="36480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -482,11 +497,11 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23952739" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23952739" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20876826" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20876826" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -541,13 +556,6 @@
     <option name="serverIp" value="localhost" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lab2_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab3_1.java" />
     <entry file="file://$PROJECT_DIR$/src/Lab3_2.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -771,12 +779,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/TestGUI/FlowLayoutEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state relative-caret-position="304">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="19" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/TestGUI/BorderLayoutEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
           </folding>
         </state>
       </provider>
