@@ -5,6 +5,7 @@ import javax.swing.*;
 public class TestGUI extends JFrame{
     TestGUI(){
         setTitle("GUI 연습");
+        setLayout(new FlowLayout());
         add(new JButton("OK"));
         add(new JButton("x"));
         setSize(300, 100);
