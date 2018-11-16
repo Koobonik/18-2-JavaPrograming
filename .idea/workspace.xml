@@ -81,8 +81,8 @@
       <file leaf-file-name="FileReadHangulSuccess.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/StreamFileRead/FileReadHangulSuccess.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+            <state relative-caret-position="320">
+              <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,13 +90,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileWriterEx.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FileWriterEx.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/StreamFileRead/FileWriterEx.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
               <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestGUI.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaExam/TestGUI/TestGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,7 +124,7 @@
       <file leaf-file-name="GoodCalc.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/GoodCalc.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
+            <state relative-caret-position="48">
               <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding>
                 <element signature="e#94#95#0" expanded="true" />
@@ -190,6 +204,7 @@
         <option value="$PROJECT_DIR$/src/JavaExam/FileReadHangulSuccess.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/StreamFileRead/FileReadHangulSuccess.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/StreamFileRead/FileWriterEx.java" />
+        <option value="$PROJECT_DIR$/src/JavaExam/TestGUI/TestGUI.java" />
       </list>
     </option>
   </component>
@@ -215,8 +230,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -240,12 +253,14 @@
               <item name="18-2-JavaPrograming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaExam" type="462c0819:PsiDirectoryNode" />
-              <item name="StreamFileRead" type="462c0819:PsiDirectoryNode" />
+              <item name="TestGUI" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -278,7 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileWriterEx">
+  <component name="RunManager" selected="Application.TestGUI">
     <configuration name="FileReadHangulSuccess (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileReadHangulSuccess" />
       <module name="Test" />
@@ -306,17 +321,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FileReaderEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExam.FileReaderEx" />
-      <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaExam.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="FileWriterEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.StreamFileRead.FileWriterEx" />
       <module name="Test" />
@@ -324,6 +328,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaExam.StreamFileRead.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExam.TestGUI.TestGUI" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExam.TestGUI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,19 +394,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FileReaderEx" />
       <item itemvalue="Application.FileReadHangulSuccess" />
       <item itemvalue="Application.FileReadHangulSuccess (1)" />
       <item itemvalue="Application.FileReadHangulSuccess (2)" />
       <item itemvalue="Application.FileWriterEx" />
+      <item itemvalue="Application.TestGUI" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestGUI" />
         <item itemvalue="Application.FileWriterEx" />
         <item itemvalue="Application.FileReadHangulSuccess (2)" />
         <item itemvalue="Application.FileReadHangulSuccess" />
         <item itemvalue="Application.FileReadHangulSuccess (1)" />
-        <item itemvalue="Application.FileReaderEx" />
       </list>
     </recent_temporary>
   </component>
@@ -425,11 +440,12 @@
       <workItem from="1541117403482" duration="11584000" />
       <workItem from="1541723695468" duration="4742000" />
       <workItem from="1541729914194" duration="1235000" />
+      <workItem from="1542329650546" duration="1931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32799000" />
+    <option name="totallyTimeSpent" value="34730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -444,27 +460,27 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23952739" />
       <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23952739" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20876826" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20876826" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3294347" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863548" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863548" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3294347" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -672,19 +688,13 @@
     <entry file="file://$PROJECT_DIR$/src/JavaExam/InteratorEX/InteratorEx.java" />
     <entry file="file://$PROJECT_DIR$/src/test.out" />
     <entry file="file://$PROJECT_DIR$/src/JavaExam/StreamFileRead/FileInputStreamEx.java" />
-    <entry file="file://$PROJECT_DIR$/src/JavaExam/hangul">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/hangul" />
     <entry file="file://$PROJECT_DIR$/src/JavaExam/StreamFileRead/hangul.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/GoodCalc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
+        <state relative-caret-position="48">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding>
             <element signature="e#94#95#0" expanded="true" />
@@ -711,8 +721,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/StreamFileRead/FileReadHangulSuccess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        <state relative-caret-position="320">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -725,6 +735,18 @@
           <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/TestGUI/TestGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
           </folding>
         </state>
       </provider>
