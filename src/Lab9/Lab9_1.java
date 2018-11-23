@@ -42,6 +42,7 @@ public class Lab9_1 extends JFrame {
     class MyMouseAdapter extends MouseAdapter {
         public void mousePressed(MouseEvent e) {
             System.out.println("asdsd");
+            panel_1.removeAll();
             for (int i = 0; i<number.length; i++){
                 int x = (int)(Math.random()*5);
 
@@ -50,6 +51,15 @@ public class Lab9_1 extends JFrame {
                 panel_1.add(number[i]);
                 add(panel_1);
             }
+            if (number[0] == number[1] || number[1] == number[2] ) {
+
+            }
+            panel_2.add(text); // 맨 위의 라벨
+            add(panel_2, BorderLayout.NORTH);
+            add(panel_1);
+            setSize(300,200);
+            setVisible(true);
+
         }
     }
 
