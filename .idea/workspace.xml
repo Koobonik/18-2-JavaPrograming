@@ -158,7 +158,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MouseListenerEx.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MouseListenerEx.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/MouserMove/MouseListenerEx.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="496">
@@ -172,27 +172,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FlowLayoutEx.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaExam/TestGUI/FlowLayoutEx.java">
+      <file leaf-file-name="MouserAdapterEx.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaExam/MouseAdapterEx/MouserAdapterEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="40" />
+            <state relative-caret-position="465">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BorderLayoutEx.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaExam/TestGUI/BorderLayoutEx.java">
+      <file leaf-file-name="Lab9_1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Lab9/Lab9_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="179">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -219,8 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaExam/SubObject.java" />
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/JavaExam/Person.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/Overriding.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/Calculator.java" />
@@ -270,6 +268,8 @@
         <option value="$PROJECT_DIR$/src/JavaExam/Test1/Test1.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/AnonymousClassListener/AnonymousClassListener.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/MouserMove/MouseListenerEx.java" />
+        <option value="$PROJECT_DIR$/src/JavaExam/MouseAdapterEx/MouserAdapterEx.java" />
+        <option value="$PROJECT_DIR$/src/Lab9/Lab9_1.java" />
       </list>
     </option>
   </component>
@@ -312,50 +312,7 @@
               <item name="18-2-JavaPrograming" type="b2602c69:ProjectViewProjectNode" />
               <item name="18-2-JavaPrograming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExam" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="18-2-JavaPrograming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18-2-JavaPrograming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExam" type="462c0819:PsiDirectoryNode" />
-              <item name="AnonymousClassListener" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="18-2-JavaPrograming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18-2-JavaPrograming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExam" type="462c0819:PsiDirectoryNode" />
-              <item name="ListenerMouse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="18-2-JavaPrograming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18-2-JavaPrograming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExam" type="462c0819:PsiDirectoryNode" />
-              <item name="ListenerMouse" type="462c0819:PsiDirectoryNode" />
-              <item name="ListenerMouseEx.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="18-2-JavaPrograming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18-2-JavaPrograming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExam" type="462c0819:PsiDirectoryNode" />
-              <item name="ListenerSample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="18-2-JavaPrograming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18-2-JavaPrograming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExam" type="462c0819:PsiDirectoryNode" />
-              <item name="MouserMove" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="18-2-JavaPrograming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="18-2-JavaPrograming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaExam" type="462c0819:PsiDirectoryNode" />
-              <item name="Test1" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -396,7 +353,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MouserAdapterEx">
+  <component name="RunManager" selected="Application.Lab9_1">
     <configuration name="AnonymousClassListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.AnonymousClassListener.AnonymousClassListener" />
       <module name="Test" />
@@ -404,6 +361,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaExam.AnonymousClassListener.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Lab9_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab9.Lab9_1" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,17 +405,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaExam.MouseAdapterEx.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExam.Test1.Test1" />
-      <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaExam.Test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -504,18 +461,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ListenerMouseEx" />
-      <item itemvalue="Application.Test1" />
       <item itemvalue="Application.AnonymousClassListener" />
       <item itemvalue="Application.MouseListenerEx" />
       <item itemvalue="Application.MouserAdapterEx" />
+      <item itemvalue="Application.Lab9_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab9_1" />
         <item itemvalue="Application.MouserAdapterEx" />
         <item itemvalue="Application.AnonymousClassListener" />
         <item itemvalue="Application.ListenerMouseEx" />
         <item itemvalue="Application.MouseListenerEx" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -551,12 +508,12 @@
       <workItem from="1541729914194" duration="1235000" />
       <workItem from="1542329650546" duration="3681000" />
       <workItem from="1542437691736" duration="5616000" />
-      <workItem from="1542931928155" duration="6259000" />
+      <workItem from="1542931928155" duration="7304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48355000" />
+    <option name="totallyTimeSpent" value="49400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -572,11 +529,11 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34371644" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34371644" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.44258872" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.44258872" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -631,14 +588,6 @@
     <option name="serverIp" value="localhost" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lab6/Tracer.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lab6/Hero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab6/Soldier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
@@ -904,6 +853,28 @@
             <element signature="imports" expanded="true" />
             <element signature="e#1230#1231#0" expanded="true" />
             <element signature="e#1266#1267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/MouseAdapterEx/MouserAdapterEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab9/Lab9_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
           </folding>
         </state>
       </provider>
