@@ -105,8 +105,8 @@
       <file leaf-file-name="ListenerMouseEx.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/ListenerMouse/ListenerMouseEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="55" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="55" />
+            <state relative-caret-position="225">
+              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#665#666#0" expanded="true" />
@@ -147,7 +147,7 @@
       <file leaf-file-name="AnonymousClassListener.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/AnonymousClassListener/AnonymousClassListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
+            <state relative-caret-position="417">
               <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -161,8 +161,8 @@
       <file leaf-file-name="MouseListenerEx.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/MouserMove/MouseListenerEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+            <state relative-caret-position="496">
+              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1230#1231#0" expanded="true" />
@@ -396,7 +396,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AnonymousClassListener">
+  <component name="RunManager" selected="Application.MouserAdapterEx">
     <configuration name="AnonymousClassListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.AnonymousClassListener.AnonymousClassListener" />
       <module name="Test" />
@@ -404,17 +404,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaExam.AnonymousClassListener.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="InnerClassListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExam.InnerClassListener.InnerClassListener" />
-      <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaExam.InnerClassListener.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,6 +426,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaExam.MouserMove.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MouserAdapterEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExam.MouseAdapterEx.MouserAdapterEx" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExam.MouseAdapterEx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -504,18 +504,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ListenerMouseEx" />
-      <item itemvalue="Application.InnerClassListener" />
       <item itemvalue="Application.Test1" />
       <item itemvalue="Application.AnonymousClassListener" />
       <item itemvalue="Application.MouseListenerEx" />
+      <item itemvalue="Application.MouserAdapterEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MouserAdapterEx" />
         <item itemvalue="Application.AnonymousClassListener" />
         <item itemvalue="Application.ListenerMouseEx" />
         <item itemvalue="Application.MouseListenerEx" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.InnerClassListener" />
       </list>
     </recent_temporary>
   </component>
@@ -551,12 +551,12 @@
       <workItem from="1541729914194" duration="1235000" />
       <workItem from="1542329650546" duration="3681000" />
       <workItem from="1542437691736" duration="5616000" />
-      <workItem from="1542931928155" duration="5863000" />
+      <workItem from="1542931928155" duration="6259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47959000" />
+    <option name="totallyTimeSpent" value="48355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -874,8 +874,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/ListenerMouse/ListenerMouseEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="55" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="55" />
+        <state relative-caret-position="225">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#665#666#0" expanded="true" />
@@ -886,7 +886,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/AnonymousClassListener/AnonymousClassListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
+        <state relative-caret-position="417">
           <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -898,8 +898,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/MouserMove/MouseListenerEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+        <state relative-caret-position="496">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1230#1231#0" expanded="true" />
