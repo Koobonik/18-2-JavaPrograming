@@ -155,11 +155,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SwingAPIEx.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SwingAPIEx.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/SwingAPIEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+            <state relative-caret-position="549">
+              <caret line="46" column="36" lean-forward="true" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -167,11 +167,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InteratorEx.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaExam/InteratorEX/InteratorEx.java">
+      <file leaf-file-name="Label.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/Label.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -206,7 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lab6/Soldier.java" />
         <option value="$PROJECT_DIR$/src/Lab6/Tracer.java" />
         <option value="$PROJECT_DIR$/src/Lab6/Lab6.java" />
         <option value="$PROJECT_DIR$/src/Lab5/Lab5_1.java" />
@@ -257,6 +256,7 @@
         <option value="$PROJECT_DIR$/src/JavaExam/day11_30/MouseListenerAllEx.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/day11_30/ClickAndDoubleClickEx.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/day11_30/SwingAPIEx.java" />
+        <option value="$PROJECT_DIR$/src/JavaExam/day11_30/Label.java" />
       </list>
     </option>
   </component>
@@ -373,7 +373,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SwingAPIEx">
+  <component name="RunManager" selected="Application.LabelEx">
     <configuration name="ClickAndDoubleClickEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.ClickAndDoubleClickEx" />
       <module name="Test" />
@@ -396,8 +396,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="KeyCodeEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.KeyCodeEx" />
+    <configuration name="LabelEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.LabelEx" />
       <module name="Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -480,19 +480,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KeyCodeEx" />
       <item itemvalue="Application.FlyingTextEx" />
       <item itemvalue="Application.MouseListenerAllEx" />
       <item itemvalue="Application.ClickAndDoubleClickEx" />
       <item itemvalue="Application.SwingAPIEx" />
+      <item itemvalue="Application.LabelEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LabelEx" />
         <item itemvalue="Application.SwingAPIEx" />
         <item itemvalue="Application.ClickAndDoubleClickEx" />
         <item itemvalue="Application.MouseListenerAllEx" />
         <item itemvalue="Application.FlyingTextEx" />
-        <item itemvalue="Application.KeyCodeEx" />
       </list>
     </recent_temporary>
   </component>
@@ -531,12 +531,12 @@
       <workItem from="1542931928155" duration="14831000" />
       <workItem from="1543130481468" duration="1920000" />
       <workItem from="1543148031499" duration="609000" />
-      <workItem from="1543537177509" duration="4672000" />
+      <workItem from="1543537177509" duration="5301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64128000" />
+    <option name="totallyTimeSpent" value="64757000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -611,7 +611,6 @@
     <option name="serverIp" value="localhost" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaExam/WrapperEX/WrapperClassEx.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -870,11 +869,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/SwingAPIEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+        <state relative-caret-position="549">
+          <caret line="46" column="36" lean-forward="true" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/Label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
