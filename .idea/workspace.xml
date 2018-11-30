@@ -57,18 +57,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GridLayoutEx.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaExam/GridLayout/GridLayoutEx.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Lab9_1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Lab9/Lab9_1.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -181,11 +169,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ButtonImageEx.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ButtonImageEx.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/ButtonImageEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="272">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#864#865#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckBoxEx.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/CheckBoxEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#890#891#0" expanded="true" />
+                <element signature="e#922#923#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -211,7 +218,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lab5/Lab5_1.java" />
         <option value="$PROJECT_DIR$/src/Lab5/_1/Lab5_1.java" />
         <option value="$PROJECT_DIR$/src/Lab5/_2/Product.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/ObjectProperty.java" />
@@ -262,6 +268,7 @@
         <option value="$PROJECT_DIR$/src/JavaExam/day11_30/Label.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/day11_30/LabelEx.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/day11_30/ButtonImageEx.java" />
+        <option value="$PROJECT_DIR$/src/JavaExam/day11_30/CheckBoxEx.java" />
       </list>
     </option>
   </component>
@@ -379,9 +386,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ButtonImageEx">
+  <component name="RunManager" selected="Application.CheckBoxEx">
     <configuration name="ButtonImageEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.ButtonImageEx" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExam.day11_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CheckBoxEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.CheckBoxEx" />
       <module name="Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -404,17 +422,6 @@
     </configuration>
     <configuration name="LabelEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.LabelEx" />
-      <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaExam.day11_30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MouseListenerAllEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.MouseListenerAllEx" />
       <module name="Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -486,19 +493,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MouseListenerAllEx" />
       <item itemvalue="Application.ClickAndDoubleClickEx" />
       <item itemvalue="Application.SwingAPIEx" />
       <item itemvalue="Application.LabelEx" />
       <item itemvalue="Application.ButtonImageEx" />
+      <item itemvalue="Application.CheckBoxEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckBoxEx" />
         <item itemvalue="Application.ButtonImageEx" />
         <item itemvalue="Application.LabelEx" />
         <item itemvalue="Application.SwingAPIEx" />
         <item itemvalue="Application.ClickAndDoubleClickEx" />
-        <item itemvalue="Application.MouseListenerAllEx" />
       </list>
     </recent_temporary>
   </component>
@@ -537,12 +544,12 @@
       <workItem from="1542931928155" duration="14831000" />
       <workItem from="1543130481468" duration="1920000" />
       <workItem from="1543148031499" duration="609000" />
-      <workItem from="1543537177509" duration="5813000" />
+      <workItem from="1543537177509" duration="6498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65269000" />
+    <option name="totallyTimeSpent" value="65954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -617,7 +624,6 @@
     <option name="serverIp" value="localhost" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaExam/StringEx/StringEX.java" />
     <entry file="file://$PROJECT_DIR$/src/JavaExam/StringBuffer/StringBufferEx.java" />
     <entry file="file://$PROJECT_DIR$/src/JavaExam/StringTokenizer/StringTokenizerEx.java" />
     <entry file="file://$PROJECT_DIR$/src/JavaExam/Vector/VectorEx.java" />
@@ -887,8 +893,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/ButtonImageEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="272">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/CheckBoxEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
