@@ -141,7 +141,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClickAndDoubleClickEx.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClickAndDoubleClickEx.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/ClickAndDoubleClickEx.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="101">
@@ -150,6 +150,18 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#894#895#0" expanded="true" />
                 <element signature="e#937#938#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwingAPIEx.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/SwingAPIEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="533">
+              <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -194,7 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lab6/Hero.java" />
         <option value="$PROJECT_DIR$/src/Lab6/Soldier.java" />
         <option value="$PROJECT_DIR$/src/Lab6/Tracer.java" />
         <option value="$PROJECT_DIR$/src/Lab6/Lab6.java" />
@@ -245,6 +256,7 @@
         <option value="$PROJECT_DIR$/src/JavaExam/day11_30/FlyingTextEx.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/day11_30/MouseListenerAllEx.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/day11_30/ClickAndDoubleClickEx.java" />
+        <option value="$PROJECT_DIR$/src/JavaExam/day11_30/SwingAPIEx.java" />
       </list>
     </option>
   </component>
@@ -361,7 +373,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClickAndDoubleClickEx">
+  <component name="RunManager" selected="Application.SwingAPIEx">
     <configuration name="ClickAndDoubleClickEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.ClickAndDoubleClickEx" />
       <module name="Test" />
@@ -395,8 +407,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="KeyListenerEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.KeyListenerEx" />
+    <configuration name="MouseListenerAllEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.MouseListenerAllEx" />
       <module name="Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -406,8 +418,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MouseListenerAllEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.MouseListenerAllEx" />
+    <configuration name="SwingAPIEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.SwingAPIEx" />
       <module name="Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -468,19 +480,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.KeyListenerEx" />
       <item itemvalue="Application.KeyCodeEx" />
       <item itemvalue="Application.FlyingTextEx" />
       <item itemvalue="Application.MouseListenerAllEx" />
       <item itemvalue="Application.ClickAndDoubleClickEx" />
+      <item itemvalue="Application.SwingAPIEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwingAPIEx" />
         <item itemvalue="Application.ClickAndDoubleClickEx" />
         <item itemvalue="Application.MouseListenerAllEx" />
         <item itemvalue="Application.FlyingTextEx" />
         <item itemvalue="Application.KeyCodeEx" />
-        <item itemvalue="Application.KeyListenerEx" />
       </list>
     </recent_temporary>
   </component>
@@ -519,12 +531,12 @@
       <workItem from="1542931928155" duration="14831000" />
       <workItem from="1543130481468" duration="1920000" />
       <workItem from="1543148031499" duration="609000" />
-      <workItem from="1543537177509" duration="3931000" />
+      <workItem from="1543537177509" duration="4672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63387000" />
+    <option name="totallyTimeSpent" value="64128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -539,12 +551,12 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33942" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33942" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29853863" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29853863" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -599,7 +611,6 @@
     <option name="serverIp" value="localhost" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaExam/Rect_Equals/EqualsEx.java" />
     <entry file="file://$PROJECT_DIR$/src/JavaExam/WrapperEX/WrapperClassEx.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -853,6 +864,16 @@
             <element signature="imports" expanded="true" />
             <element signature="e#894#895#0" expanded="true" />
             <element signature="e#937#938#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/SwingAPIEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
