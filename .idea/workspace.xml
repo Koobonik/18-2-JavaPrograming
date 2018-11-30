@@ -119,11 +119,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MouseListenerAllEx.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MouseListenerAllEx.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/MouseListenerAllEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="533">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#760#761#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
+                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#966#967#0" expanded="true" />
+                <element signature="e#1358#1359#0" expanded="true" />
+                <element signature="e#1436#1437#0" expanded="true" />
+                <element signature="e#1483#1484#0" expanded="true" />
+                <element signature="e#1559#1560#0" expanded="true" />
+                <element signature="e#1611#1612#0" expanded="true" />
+                <element signature="e#1651#1652#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClickAndDoubleClickEx.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/ClickAndDoubleClickEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#894#895#0" expanded="true" />
+                <element signature="e#937#938#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,7 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lab6/Attack.java" />
         <option value="$PROJECT_DIR$/src/Lab6/Hero.java" />
         <option value="$PROJECT_DIR$/src/Lab6/Soldier.java" />
         <option value="$PROJECT_DIR$/src/Lab6/Tracer.java" />
@@ -218,6 +244,7 @@
         <option value="$PROJECT_DIR$/src/JavaExam/day11_30/KeyCodeEx.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/day11_30/FlyingTextEx.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/day11_30/MouseListenerAllEx.java" />
+        <option value="$PROJECT_DIR$/src/JavaExam/day11_30/ClickAndDoubleClickEx.java" />
       </list>
     </option>
   </component>
@@ -334,7 +361,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MouseListenerAllEx">
+  <component name="RunManager" selected="Application.ClickAndDoubleClickEx">
+    <configuration name="ClickAndDoubleClickEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.ClickAndDoubleClickEx" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExam.day11_30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="FlyingTextEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.day11_30.FlyingTextEx" />
       <module name="Test" />
@@ -364,17 +402,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaExam.day11_30.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Lab9_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab9.Lab9_1" />
-      <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lab9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -441,19 +468,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab9_1" />
       <item itemvalue="Application.KeyListenerEx" />
       <item itemvalue="Application.KeyCodeEx" />
       <item itemvalue="Application.FlyingTextEx" />
       <item itemvalue="Application.MouseListenerAllEx" />
+      <item itemvalue="Application.ClickAndDoubleClickEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClickAndDoubleClickEx" />
         <item itemvalue="Application.MouseListenerAllEx" />
         <item itemvalue="Application.FlyingTextEx" />
         <item itemvalue="Application.KeyCodeEx" />
         <item itemvalue="Application.KeyListenerEx" />
-        <item itemvalue="Application.Lab9_1" />
       </list>
     </recent_temporary>
   </component>
@@ -492,12 +519,12 @@
       <workItem from="1542931928155" duration="14831000" />
       <workItem from="1543130481468" duration="1920000" />
       <workItem from="1543148031499" duration="609000" />
-      <workItem from="1543537177509" duration="3375000" />
+      <workItem from="1543537177509" duration="3931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62831000" />
+    <option name="totallyTimeSpent" value="63387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -572,7 +599,6 @@
     <option name="serverIp" value="localhost" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaExam/Rect_Equals/Rect.java" />
     <entry file="file://$PROJECT_DIR$/src/JavaExam/Rect_Equals/EqualsEx.java" />
     <entry file="file://$PROJECT_DIR$/src/JavaExam/WrapperEX/WrapperClassEx.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java">
@@ -801,8 +827,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/MouseListenerAllEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="533">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#1358#1359#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
+            <element signature="e#1483#1484#0" expanded="true" />
+            <element signature="e#1559#1560#0" expanded="true" />
+            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#1651#1652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/ClickAndDoubleClickEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
