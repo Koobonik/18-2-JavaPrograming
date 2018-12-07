@@ -22,6 +22,8 @@ public class Test2 extends JFrame {
         @Override
         public void actionPerformed(ActionEvent e){
             label.setText(text.getText());
+            text.setText("입력불가");
+            text.setEditable(false);
         }
     }
     public static void main(String []args){

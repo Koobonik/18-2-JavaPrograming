@@ -111,15 +111,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaExam/day12_07/Test2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            <state relative-caret-position="389">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#695#696#0" expanded="true" />
                 <element signature="e#759#760#0" expanded="true" />
                 <element signature="e#786#787#0" expanded="true" />
               </folding>
@@ -127,13 +125,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SwingAPIEx.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaExam/day11_30/SwingAPIEx.java">
+      <file leaf-file-name="TextAreaEx.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaExam/day12_07/TextAreaEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+            <state relative-caret-position="293">
+              <caret line="27" column="71" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#925#926#0" expanded="true" />
+                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#1098#1099#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -212,7 +214,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaExam/WrapperEX/WrapperClassEx.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/StringEx/StringEX.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/StringBuffer/StringBufferEx.java" />
@@ -263,6 +264,7 @@
         <option value="$PROJECT_DIR$/src/JavaExam/day12_07/RadioButtonItemEventEx.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/day12_07/TextFieldEx.java" />
         <option value="$PROJECT_DIR$/src/JavaExam/day12_07/Test2.java" />
+        <option value="$PROJECT_DIR$/src/JavaExam/day12_07/TextAreaEx.java" />
       </list>
     </option>
   </component>
@@ -380,18 +382,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test2">
-    <configuration name="CheckBoxItemEventEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaExam.day12_07.CheckBoxItemEventEx" />
-      <module name="Test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaExam.day12_07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.TextAreaEx">
     <configuration name="RadioButtonItemEventEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.day12_07.RadioButtonItemEventEx" />
       <module name="Test" />
@@ -416,6 +407,17 @@
     </configuration>
     <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaExam.day12_07.Test2" />
+      <module name="Test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaExam.day12_07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TextAreaEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaExam.day12_07.TextAreaEx" />
       <module name="Test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -487,19 +489,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CheckBoxItemEventEx" />
       <item itemvalue="Application.Test1" />
       <item itemvalue="Application.RadioButtonItemEventEx" />
       <item itemvalue="Application.TextFieldEx" />
       <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.TextAreaEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TextAreaEx" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.TextFieldEx" />
         <item itemvalue="Application.RadioButtonItemEventEx" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.CheckBoxItemEventEx" />
       </list>
     </recent_temporary>
   </component>
@@ -540,12 +542,12 @@
       <workItem from="1543148031499" duration="609000" />
       <workItem from="1543537177509" duration="6498000" />
       <workItem from="1543893859800" duration="1010000" />
-      <workItem from="1544141950389" duration="3308000" />
+      <workItem from="1544141950389" duration="4685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70272000" />
+    <option name="totallyTimeSpent" value="71649000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="956" y="0" width="971" height="1047" extended-state="0" />
@@ -560,12 +562,12 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33942" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33942" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25759163" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25759163" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -620,7 +622,6 @@
     <option name="serverIp" value="localhost" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test.out" />
     <entry file="file://$PROJECT_DIR$/src/JavaExam/hangul" />
     <entry file="file://$PROJECT_DIR$/src/JavaExam/StreamFileRead/hangul.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -929,14 +930,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaExam/day12_07/Test2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        <state relative-caret-position="389">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
             <element signature="e#759#760#0" expanded="true" />
             <element signature="e#786#787#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaExam/day12_07/TextAreaEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="27" column="71" selection-start-line="27" selection-start-column="71" selection-end-line="27" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
           </folding>
         </state>
       </provider>
