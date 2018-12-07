@@ -31,7 +31,7 @@ public class ListEx extends JFrame {
         //스크롤 리스트
         JList scrollList = new JList(fruits);
         contentPane.add(new JScrollPane(scrollList));
-        
+
         setSize(300,300);
         setVisible(true);
     }
