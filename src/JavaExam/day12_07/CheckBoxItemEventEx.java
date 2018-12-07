@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
-// ItemEvent를 활용하여 가격 합산하기 
+// ItemEvent를 활용하여 가격 합산하기
 public class CheckBoxItemEventEx extends JFrame {
     Container contentPane;
     JCheckBox [] fruits = new JCheckBox [3];
