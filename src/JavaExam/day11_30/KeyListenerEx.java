@@ -17,9 +17,9 @@ public class KeyListenerEx extends JFrame {
         contentPane.addKeyListener(new MyKeyListener());
 
         keyMessage = new JLabel[3];
-        keyMessage[0] = new JLabel(" getKeycode() ");
-        keyMessage[1] = new JLabel(" getKeycode() ");
-        keyMessage[2] = new JLabel(" getKeycode() ");
+        keyMessage[0] = new JLabel(" getKeyCode() ");
+        keyMessage[1] = new JLabel(" getKeyChar() ");
+        keyMessage[2] = new JLabel(" getKeyText() ");
 
 
         for(int i = 0; i < keyMessage.length; i++){

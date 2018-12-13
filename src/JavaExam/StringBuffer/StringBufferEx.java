@@ -1,5 +1,5 @@
 package JavaExam.StringBuffer;
-
+import java.lang.Math;
 public class StringBufferEx {
     public static void main(String [] args){
         StringBuffer sb = new StringBuffer("This");
@@ -18,6 +18,11 @@ public class StringBufferEx {
 
         System.out.println(sb);
         System.out.println(sb.hashCode());
+        sb.reverse();
 
+        int a = 1;
+        Math.exp(a);
+        System.out.println(a);
+        System.out.println(Math.exp(a));
     }
 }
